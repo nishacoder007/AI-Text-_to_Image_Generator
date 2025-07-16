@@ -1,1 +1,1 @@
-# AI-Text-_to_Image_Generator
+# AI Text_to_Image_Generator
